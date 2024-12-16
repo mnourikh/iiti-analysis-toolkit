@@ -1,5 +1,5 @@
 
-# IITI Analysis Toolkit
+# IITI Analysis Toolkit (HS)
 
 This toolkit provides methods for analyzing Intra-Industry Trade (IITI) and related indices, including:
 - **Weighted Intra-Industry Trade Index (WIITI)**
